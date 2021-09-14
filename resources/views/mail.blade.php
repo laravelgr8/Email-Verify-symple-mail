@@ -1,0 +1,1 @@
+<h2>Plese Email Verify {{$url}}</h2>
